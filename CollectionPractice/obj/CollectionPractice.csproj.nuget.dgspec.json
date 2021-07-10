@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/CollectionPractice.csproj": {}
+  },
+  "projects": {
+    "/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/CollectionPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/CollectionPractice.csproj",
+        "projectName": "CollectionPractice",
+        "projectPath": "/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/CollectionPractice.csproj",
+        "packagesPath": "/Users/irehj/.nuget/packages/",
+        "outputPath": "/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/irehj/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

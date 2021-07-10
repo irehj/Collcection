@@ -1,0 +1,15 @@
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/CollectionPractice.deps.json
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/CollectionPractice.runtimeconfig.json
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/CollectionPractice.runtimeconfig.dev.json
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/CollectionPractice.dll
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/ref/CollectionPractice.dll
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/bin/Debug/net5.0/CollectionPractice.pdb
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.csproj.AssemblyReference.cache
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.AssemblyInfoInputs.cache
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.AssemblyInfo.cs
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.csproj.CoreCompileInputs.cache
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.dll
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/ref/CollectionPractice.dll
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.pdb
+/Users/irehj/CollectionPractice/CollectionPractice/CollectionPractice/obj/Debug/net5.0/CollectionPractice.genruntimeconfig.cache
